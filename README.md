@@ -16,7 +16,7 @@ Ensure OX-Interactions
 
 
 
-
+--------------------------------------------------------------
 
 server prompt should look like this:
 

@@ -1,5 +1,5 @@
 # ModernCuffX
-Cuffing script that uses The OX-Target (3rd eye) feature to target specific players, and objects around. This allows performance of police interactions without opening a menu whatsoever. Includes SEM-Interaction Menu Integrated to OX-Lib Alerts and Interface.
+Cuffing script that uses The OX-Target (3rd eye) feature to target specific players, and objects around. This allows performance of police interactions without opening a menu whatsoever. Ox-Interactions inclue the majority code for Integration of OX-Lib Alerts and Interface.
 
 ## DEPENDANCEY
 [OX-Lib](https://forum.cfx.re/t/free-ox-lib-ui-and-common-code/4853434)

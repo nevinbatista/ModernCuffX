@@ -2,7 +2,7 @@
 ───────────────────────────────────────────────────────────────
 
 	SEM_InteractionMenu (menu.lua) - Created by NevinBatista
-	Current Version: v1.7.1 (Sep 2021)
+	Current Version: v1 (June 2025)
 	
 	https://discord.gg/93s5Wr4rBe
 	

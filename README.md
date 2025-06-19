@@ -8,12 +8,19 @@ Cuffing script that uses The OX-Target (3rd eye) feature to target specific play
 
 ## INSTALLATION
 Ensure Ox-lib is started/ensured before OX-Target
+
 Ensure OX-Target is installed before OX-Interaction
+
 Ensure OX-Interactions
 
+
 server prompt should look like this:
+
 start/ensure OX-Lib
+
 start/ensure OX-Target
+
 start/ensure OX-Interactions
+
 
 

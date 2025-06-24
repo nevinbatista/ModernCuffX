@@ -8,6 +8,6 @@ This resource is built to allow various interactions utilizing modern assets, en
 
 
 💻 **Installation**
-This is a drag and drop resource. Open your server.cfg file, ensure/start SEM_InteractionMenu, then drag and drop the resource and it should set itself up. Please make sure ox_lib is installed and started before this resource on your server. In addition Ensure OX-Target is installed and ensured before OX-Interactions but after OX-Lib. If you fail to do these steps the menu **WILL** not load properly, resaulting in errors & illtranslateable language for your server to prompt coprehend.
+This is a drag and drop resource. Open your server.cfg file, ensure/start ox-interactions, then drag and drop the resource and it should set itself up. Please make sure ox_lib & target is installed and started before this resource on your server. In addition Ensure OX-Target is installed and ensured before OX-Interactions but after OX-Lib. If you fail to do these steps the menu **WILL NOT** load properly, resaulting in errors & illtranslateable language for your server to coprehend.
 
 
